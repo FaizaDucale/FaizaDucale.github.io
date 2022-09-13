@@ -1,0 +1,37 @@
+body {
+  
+}
+h1 {
+	font-size: 30px;
+ 	 color: #578061;
+	font-family:sans-serif;
+
+
+}
+h2 {
+	color: #578061;
+	font-size : 20px;
+	font-family:sans-serif
+}
+p {
+	font-size: 15px;
+  	color: #578061;
+	font-family:sans-serif
+}
+tr { 
+font-size: 15px;
+  	color: #578061;
+	font-family:sans-serif
+}
+
+li {
+	font-size: 20px;
+  	color: #578061;
+	font-family:sans-serif
+}
+td {
+	font-size: 20px;
+  	color: #578061;
+	font-family:sans-serif
+}
+}
